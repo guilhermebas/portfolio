@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagem.png" >
+  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
 </p>
 
 # Guilherme Basílio
